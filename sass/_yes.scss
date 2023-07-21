@@ -1,0 +1,102 @@
+.yes{
+    background-color: #FFF8E4;
+    margin-bottom: 154px;
+    margin: 0 auto;
+}
+
+.work{
+    padding-top: 120px;
+    margin-bottom: 150px;
+}
+
+.can{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.games{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 1em;
+    align-items: start;
+    padding: 0 0 93px 0;
+    margin-left: 200px;
+}
+
+.web, .pig{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.web,  .pig > h3{
+    font-size: 25px;
+    line-height: 35px;
+    max-width: 700px;
+    font-weight: 600;
+}
+
+.web, .pig > p{
+    font-size: 18px;
+    line-height: 25px;
+    width: 320px;
+    text-align: center;
+    font-weight: normal;
+}
+
+
+h3{
+    font-size: 25px;
+}
+
+.per{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2vw;
+    grid-auto-rows: 200px;
+    margin: 0 0 0 75px;
+}
+
+main{
+    margin: 0 75px 67px 250px;
+}
+
+.web > img{
+    margin-bottom: 50px;
+}
+
+.boost{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 1em;
+    align-items: center;
+}
+
+.boost > .web{
+    text-align: left;
+    align-items: flex-start;
+}
+
+.pol{
+    margin-bottom: 100px;
+}
+
+.web > h3 {
+    font-family: 'Roboto Flex', sans-serif;
+    margin-bottom: 50px;
+}
+
+.web > p{
+    margin-bottom: 25px;
+}
+
+.tenfold{
+    margin-bottom: 95px;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+}

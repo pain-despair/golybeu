@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@400;600&display=swap');
+
+*{
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+}
+
+@import "header";
+@import "mainsuper";
+@import "tidal";
+@import "wrapper";
+@import "settings";
+@import "yes";
+@import "office";
+@import "golybeu";
+@import "footer";

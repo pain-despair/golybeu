@@ -1,0 +1,18 @@
+.rapper{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center;
+    margin-left: 75px;
+    padding: 0 0 200px;
+    
+}
+
+.rapper > .main-text  {
+    margin-left: 138px;
+}
+
+.soup{
+    background-image: url(./img/321.svg);
+    background-color: #FFF8E4;
+}

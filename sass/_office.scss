@@ -1,0 +1,59 @@
+.office{
+    background-color: #C9E8F2;
+    padding-left: 75px;
+}
+
+.edward{
+    display: flex;
+    align-items: center;
+}
+
+.main-edward{
+    line-height: 40px;
+}
+
+.main-edward > span{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 40px;
+    width: 250px;
+}
+
+.chel{
+    width: 310px;
+    height: 310px;
+    padding: 53px 75px 105px 60px;
+}
+
+.loved{
+    display: flex;
+    background-color: #DABC98;
+    align-items: center;
+    padding: 90px 0 90px 75px;
+    margin-bottom: 165px;
+}
+
+.loved-left{
+    display: flex;
+    align-items: center;
+}
+
+.loved-left > img{
+    margin-right: 67px;
+} 
+
+.selena{
+    margin-right: 15px;
+    margin-right: 20px;
+}
+
+.loved-left > h3 {
+    font-family: 'Roboto Flex', sans-serif;
+    width: 461px;
+}
+
+.loved-right {
+    border-left: 1px solid #000;
+    padding-left: 50px;
+}

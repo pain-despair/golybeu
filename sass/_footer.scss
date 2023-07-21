@@ -1,0 +1,78 @@
+.final{
+    display: flex;
+    align-items: baseline;
+    margin: 0 75px;
+    border-bottom: 1px solid #00000080;
+}
+
+.amore {
+    margin-bottom: 95px;
+}
+
+.ko{
+    display: flex;
+    line-height: 50px;
+    flex-direction: column;
+}
+
+.bike{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 31px;
+}
+
+.ko > .lego{
+    width: 80px;
+    height: 32px;
+    margin-bottom: 11px;
+    background-color: white;
+}
+
+.omore{
+    font-size: 40px;
+    margin-bottom: 28px;
+}
+
+.amore{
+    font-size: 20px;
+}
+
+.ko > p{
+    width: 235px;
+    line-height: 25px;
+}
+
+.categories{
+    display: flex;
+    gap: 35px;
+    line-height: 35px;
+    padding-left: 200px;
+}
+
+.footer{
+    margin: 52px 0;
+
+}
+
+.end{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 75px;
+}
+
+.oli{
+    margin-right: 14px;
+}
+
+.oni{
+    margin-right: 830px;
+    width: 350px;
+}
+
+.reser{
+    display: flex;
+    width: 200px;
+    align-self: end;
+    flex-direction: column;
+}

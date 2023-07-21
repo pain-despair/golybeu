@@ -1,0 +1,64 @@
+.auto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 162px;
+}
+
+.auto > h3{
+    width: 791px;
+    font-size: 65px;
+    text-align: center;
+}
+
+.auto > p{
+    font-size: 25px;
+    text-align: center;
+    width: 539px;
+    margin-bottom: 25px;
+}
+
+.auto > img{
+    margin-bottom: 32px;
+}
+
+.auto > button{
+    padding: 20px 55px;
+    background-color: #FF6336;
+    color: white;
+    border: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.wait{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 108px;
+    margin-bottom: 162px;
+    background-color: #FF9C7D;
+}
+
+.wait > h3{
+    text-align: center;
+    font-size: 65px;
+    margin-bottom: 29px;
+    width: 784px;
+}
+
+.wait > p{
+    font-size: 20px;
+    margin-bottom: 54px;  
+}
+
+.wait > button{
+    background-color: #000000;
+    color: white;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 20px 55px;
+    margin-bottom: 161px;
+}
